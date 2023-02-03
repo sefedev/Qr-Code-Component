@@ -8,7 +8,7 @@ function App() {
           <div className="">
           <img
             className="rounded-lg"
-            src="..\public\src\assets\images\image-qr-code.png"
+            src="/image-qr-code.png"
             alt="QR CODE"
           />
           </div>
